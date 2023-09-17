@@ -1,2 +1,1 @@
-# THProject-4
-Drum kit
+# project_4

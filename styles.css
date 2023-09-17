@@ -1,0 +1,125 @@
+body {
+  text-align: center;
+  background-color: aqua;
+  border: 20px solid black;
+
+}
+
+h1 {
+  font-size: 5rem;
+  color: #008080;
+  font-family: 'Croissant One', cursive;
+  text-shadow: 3px 0 white;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+/* button 1 */
+
+.Tome1 {
+  transition-duration: 0.4s;
+}
+.Tome1:hover{
+  background-color:#800000	;
+  color: white;
+}
+
+/* button 2 */
+
+.Tome2 {
+  transition-duration: 0.4s;
+}
+.Tome2:hover{
+  background-color: #ff0000	;
+  color: white;
+}
+
+/* button 3 */
+.Tome3 {
+  transition-duration: 0.4s;
+}
+.Tome3:hover{
+  background-color: #ffa500	;
+  color: white;
+}
+
+/* button 4 */
+
+.Tome4 {
+  transition-duration: 0.4s;
+}
+.Tome4:hover{
+  background-color: #ffff00	;
+  color: #0000FF;
+}
+
+/* button 5 */
+
+.Snare {
+  transition-duration: 0.4s;
+}
+.Snare:hover{
+  background-color: #808000	;
+  color: white;
+}
+
+/* button 6 */
+
+.Crash {
+  transition-duration: 0.4s;
+}
+.Crash:hover{
+  background-color: #008000	;
+  color: white;
+}
+
+/* button 7 */
+
+.Kick-bass {
+  transition-duration: 0.4s;
+}
+.Kick-bass:hover{
+  background-color: #0000FF	;
+  color: white;
+}
+
+.set {
+  margin: 50px auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: none;
+  font-size: 2rem;
+  font-family: 'Croissant One', cursive;
+  text-shadow: 3px 0 black;
+  line-height: 2;
+  font-weight: 500;
+  color: #008080;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+
